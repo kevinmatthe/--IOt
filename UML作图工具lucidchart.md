@@ -1,1 +1,1 @@
-![URL](https://app.lucidchart.com)
+[lucidchart](https://app.lucidchart.com)
